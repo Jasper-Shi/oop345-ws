@@ -1,0 +1,10 @@
+﻿  w6.cpp
+e:\seneca\3rd semester\oop345\ws\ws6\w6\w6\grades.h(34): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\ws6\w6\w6\grades.h(56): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\ws6\w6\w6\w6.cpp(44): note: see reference to function template instantiation 'void Grades::displayGrades<main::<lambda_1a596a8aa3d1f5099c1868d8432fe640>>(std::ostream &,T) const' being compiled
+          with
+          [
+              T=main::<lambda_1a596a8aa3d1f5099c1868d8432fe640>
+          ]
+  w6.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws6\w6\Debug\w6.exe
+  w6.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws6\w6\Debug\w6.pdb (Full PDB)
