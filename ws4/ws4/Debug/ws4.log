@@ -1,0 +1,35 @@
+﻿  w4.cpp
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(23): warning C4101: 'width': unreferenced local variable
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(46): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(45): note: while compiling class template member function 'KVList<std::string,double,5> &KVList<std::string,double,5>::replace(int,const K &,const V &)'
+          with
+          [
+              K=std::string,
+              V=double
+          ]
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(62): note: see reference to function template instantiation 'KVList<std::string,double,5> &KVList<std::string,double,5>::replace(int,const K &,const V &)' being compiled
+          with
+          [
+              K=std::string,
+              V=double
+          ]
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(28): note: see reference to class template instantiation 'KVList<std::string,double,5>' being compiled
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(38): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(36): note: while compiling class template member function 'int KVList<std::string,double,5>::find(const K &) const'
+          with
+          [
+              K=std::string
+          ]
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(57): note: see reference to function template instantiation 'int KVList<std::string,double,5>::find(const K &) const' being compiled
+          with
+          [
+              K=std::string
+          ]
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(12): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\ws4\ws4\w4.cpp(46): note: see reference to function template instantiation 'void display<std::string,double,5>(const std::string &,const KVList<std::string,double,5> &,int)' being compiled
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(25): warning C4715: 'KVList<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double,5>::value': not all control paths return a value
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(20): warning C4715: 'KVList<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,double,5>::key': not all control paths return a value
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(20): warning C4715: 'KVList<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,5>::key': not all control paths return a value
+e:\seneca\3rd semester\oop345\ws\ws4\ws4\kvlist.h(25): warning C4715: 'KVList<std::basic_string<char,std::char_traits<char>,std::allocator<char> >,std::basic_string<char,std::char_traits<char>,std::allocator<char> >,5>::value': not all control paths return a value
+  ws4.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws4\Debug\ws4.exe
+  ws4.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws4\Debug\ws4.pdb (Full PDB)
