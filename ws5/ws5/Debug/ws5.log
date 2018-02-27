@@ -1,0 +1,5 @@
+﻿  w5.cpp
+e:\seneca\3rd semester\oop345\ws\ws5\ws5\ws5\message.h(18): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\ws5\ws5\ws5\notifications.h(63): warning C4018: '<': signed/unsigned mismatch
+  ws5.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws5\ws5\Debug\ws5.exe
+  ws5.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws5\ws5\Debug\ws5.pdb (Full PDB)
