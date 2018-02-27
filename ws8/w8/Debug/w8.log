@@ -1,0 +1,35 @@
+﻿  w8.cpp
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(98): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(96): note: while compiling class template member function 'void w8::DataTable<float>::display(std::ostream &) const'
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(109): note: see reference to function template instantiation 'void w8::DataTable<float>::display(std::ostream &) const' being compiled
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(109): note: see reference to class template instantiation 'w8::DataTable<float>' being compiled
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(77): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(74): note: while compiling class template member function 'void w8::DataTable<float>::regression(T &,T &) const'
+          with
+          [
+              T=float
+          ]
+  e:\seneca\3rd semester\oop345\ws\w8\w8\w8.cpp(37): note: see reference to function template instantiation 'void w8::DataTable<float>::regression(T &,T &) const' being compiled
+          with
+          [
+              T=float
+          ]
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(81): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(83): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(86): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(76): warning C4101: 'F': unreferenced local variable
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(76): warning C4101: 'E': unreferenced local variable
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(65): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(63): note: while compiling class template member function 'float w8::DataTable<float>::median(void) const'
+  e:\seneca\3rd semester\oop345\ws\w8\w8\w8.cpp(42): note: see reference to function template instantiation 'float w8::DataTable<float>::median(void) const' being compiled
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(55): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(52): note: while compiling class template member function 'float w8::DataTable<float>::sigma(void) const'
+  e:\seneca\3rd semester\oop345\ws\w8\w8\w8.cpp(42): note: see reference to function template instantiation 'float w8::DataTable<float>::sigma(void) const' being compiled
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(44): warning C4018: '<': signed/unsigned mismatch
+  e:\seneca\3rd semester\oop345\ws\w8\w8\datatable.h(42): note: while compiling class template member function 'float w8::DataTable<float>::mean(void) const'
+  e:\seneca\3rd semester\oop345\ws\w8\w8\w8.cpp(42): note: see reference to function template instantiation 'float w8::DataTable<float>::mean(void) const' being compiled
+  DataTable.cpp
+  Generating Code...
+  w8.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\w8\Debug\w8.exe
+  w8.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\w8\Debug\w8.pdb (Full PDB)
