@@ -1,0 +1,5 @@
+﻿  w3.cpp
+e:\seneca\3rd semester\oop345\ws\ws3\ws3\text.h(34): warning C4018: '<': signed/unsigned mismatch
+e:\seneca\3rd semester\oop345\ws\ws3\ws3\text.h(58): warning C4018: '<': signed/unsigned mismatch
+  ws3.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws3\Debug\ws3.exe
+  ws3.vcxproj -> E:\Seneca\3rd Semester\OOP345\ws\ws3\Debug\ws3.pdb (Full PDB)
